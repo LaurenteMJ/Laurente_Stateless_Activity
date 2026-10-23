@@ -20,10 +20,10 @@ class Student {
 // Hard-coded sample data required by the activity.
 const List<Student> students = [
   Student(
-    name: 'Ronel Silvosa',
+    name: 'Mar Jhun Laurente',
     course: 'BS Information Technology',
     yearLevel: 3,
-    email: 'ronel.silvosa@example.com',
+    email: 'mar.jhun.laurente@example.com',
   ),
   Student(
     name: 'Ashley Pullos',
